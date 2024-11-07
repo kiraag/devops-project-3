@@ -25,7 +25,7 @@ In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** u
 ---
 
 ## Connect with me on LinkedIn:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sai-kiran-danda-kiraag/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kiran-danda-kiraag/)
 
 ---
 
